@@ -1,0 +1,1 @@
+import{W as t}from"./WalletButton.CxbfnBN_.js";import{c as o}from"./solana-wallets-vue.CzTapSM1.js";/* empty css                                   */import"./_commonjsHelpers.BosuxZz1.js";o(t).mount("#wallet-button");

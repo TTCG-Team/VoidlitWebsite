@@ -1,0 +1,29 @@
+.range-slider {
+    --width: 100%;
+}
+
+.range-slider .panel {
+    border: solid 1px coral;
+    background-color: transparent;
+}
+.range-slider .panel:hover {
+    background-color: transparent;
+}
+.range-slider .panel-fill {
+    background-color: coral;
+}
+.range-slider .pointer-shape {
+    background-color: transparent;
+    border: 1px solid transparent;
+    box-shadow: 0 0 2px coral;
+}
+.range-slider .pointer-shape:hover {
+    background-color: coral;
+    border: 1px solid coral;
+    box-shadow: 0 0 4px coral;
+}
+.range-slider .pointer:focus .pointer-shape {
+    background-color: coral;
+    border: 1px solid coral;
+    box-shadow: 0 0 4px coral;
+}
