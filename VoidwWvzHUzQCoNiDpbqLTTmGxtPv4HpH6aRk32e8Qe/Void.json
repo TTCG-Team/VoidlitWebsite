@@ -1,0 +1,12 @@
+{
+    "name": "Voidlit Obsidian",
+    "symbol": "VOID",
+    "description": "Voidlit Game Credit -- Obsidian",
+    "image": "https://www.voidlit.com/imgs/icon.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
